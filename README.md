@@ -1,1 +1,1 @@
-# ALX Short Specializations
+# ALX Short Specialization
